@@ -1,0 +1,6 @@
+﻿  Engine.cpp
+  main.cpp
+E:\GitHub\D2D Docs\GameEngine2D\Direct2D\@origami\ChaosEngine\ChaosEngine_C++\main.cpp(37,18): error C2660: “CreateWindowExA”: 函数不接受 0 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4416,1): message : 参见“CreateWindowExA”的声明
+E:\GitHub\D2D Docs\GameEngine2D\Direct2D\@origami\ChaosEngine\ChaosEngine_C++\main.cpp(52,20): error C2065: “Hwnd”: 未声明的标识符
+  正在生成代码...
